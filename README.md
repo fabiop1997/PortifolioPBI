@@ -1,5 +1,5 @@
 # PortifolioPBI
-Aqui constão alguns dashboards desenvolvidos para demonstração
+Aqui estão alguns dashboards desenvolvidos para aprendizado:
 
 1. Dashboad de análise de perfil:
  
