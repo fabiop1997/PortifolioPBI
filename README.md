@@ -9,6 +9,6 @@ Aqui estão alguns dashboards desenvolvidos para aprendizado:
 
 O dashboad apresenta informoções de vendas, segmentadas de uma loja de informática fictícia.
 
-3. Dashboard de Pededos:
+3. Dashboard de Pedidos:
 
 O deshboad apresenta informações, capazes se suortar decições de uma equipe de logistica, por exemplo, de um e-commerce fictício.
