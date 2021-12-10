@@ -11,4 +11,4 @@ O dashboad apresenta informoções de vendas, segmentadas de uma loja de inform�
 
 3. Dashboard de Pedidos:
 
-O deshboad apresenta informações, capazes se suortar decições de uma equipe de logistica, por exemplo, de um e-commerce fictício.
+O deshboad apresenta informações, capazes de suportar a tomada de decisão de uma equipe de logistica, por exemplo, de um e-commerce fictício.
